@@ -1,0 +1,10 @@
+C:\Users\iranc\source\repos\IMLab2\IMLab2\bin\Debug\IMLab2.exe.config
+C:\Users\iranc\source\repos\IMLab2\IMLab2\bin\Debug\IMLab2.exe
+C:\Users\iranc\source\repos\IMLab2\IMLab2\bin\Debug\IMLab2.pdb
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.csproj.AssemblyReference.cache
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.Form1.resources
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.Properties.Resources.resources
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.csproj.GenerateResource.cache
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.csproj.CoreCompileInputs.cache
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.exe
+C:\Users\iranc\source\repos\IMLab2\IMLab2\obj\Debug\IMLab2.pdb
